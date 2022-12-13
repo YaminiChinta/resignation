@@ -1,0 +1,22 @@
+.profile{
+    width: 95%;
+    height: 60%;
+    text-align: left;
+    border-color: #385067;
+    color: rgb(7, 7, 7);
+    align-content: flex-end;
+    border-style: solid;
+    position: relative;
+    float: left;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 20px; 
+  }
+
+  .border{
+    border-color: #a0c6ea;
+    border-style: groove;
+  }
+
+  
+  
